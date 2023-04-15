@@ -1,6 +1,7 @@
 import javax.swing.JOptionPane;
 
 public class ExercicioExtra {
+    
     public static void main(String[] args){
         String val1;
         String val2;
